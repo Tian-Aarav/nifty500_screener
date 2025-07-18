@@ -5,3 +5,4 @@ pandas_ta
 beautifulsoup4
 requests
 schedule
+setuptools
