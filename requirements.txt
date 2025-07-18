@@ -1,8 +1,9 @@
-streamlit
-pandas
-yfinance
-pandas_ta
-beautifulsoup4
-requests
-schedule
-setuptools
+streamlit==1.35.0
+pandas==1.5.3
+numpy==1.23.5
+yfinance==0.2.37
+pandas_ta==0.3.14b0
+beautifulsoup4==4.12.3
+requests==2.31.0
+schedule==1.2.1
+setuptools==68.2.2
